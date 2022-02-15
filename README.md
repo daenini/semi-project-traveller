@@ -39,6 +39,16 @@
  ***
  #### <화면 설계>
  ![image](https://user-images.githubusercontent.com/82662325/154018295-57c24bd5-9500-4408-b4fb-bb88680f5ad7.png)
+ 
+ ***
  ![image](https://user-images.githubusercontent.com/82662325/154018460-2029e220-960b-4540-807c-abc2d9707959.png)
+ 
+ 
+ ***
  ![image](https://user-images.githubusercontent.com/82662325/154018563-15eba9c0-9569-45e3-b67f-9a015fe17df9.png)
+
+<br>
+
+#### 느낀점
+> 첫 프로젝트라 부족함도 있었지만 팀원들과 소통하고 함께 만들어 나가며 다른 사람들과 협업하고 의견을 내며 참여하니 자신감도 생기고 처음 웹 사이트를 만들었다고 생각하니 뿌듯함도 느꼈습니다. 부족한 부분을 알게되고 모르는 부분은 직접 찾고 해결해 뿌듯하고 자신감을 얻은 첫 프로젝트였습니다.
 
